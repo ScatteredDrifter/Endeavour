@@ -4,9 +4,9 @@ An orthogonal  10u keyboard heavily inspired by kb_elmo`s QEZ[https://github.com
 
 ---
 
-![](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/photos-case/built1.jpg)
+![](/images/photos-case/built1.jpg)
 
-![](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/photos-case/built2.jpg)
+![](/images/photos-case/built2.jpg)
 
 
 
@@ -56,16 +56,16 @@ An orthogonal  10u keyboard heavily inspired by kb_elmo`s QEZ[https://github.com
 
 ## <u>PCB Images:</u>
 
- ![pcb-front](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/render-pcb/pcb-front.png)
+ ![pcb-front](/images/render-pcb/pcb-front.png)
 
-![pcbback](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/render-pcb/pcb-back.png)
+![pcbback](/images/render-pcb/pcb-back.png)
 
 
 
 ## <u>CASE Images:</u>
 
-![](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/photos-case/IMG_20211204_181926.jpg)
+![](/images/photos-case/IMG_20211204_181926.jpg)
 
-![](/home/fabian/TechCluster/KEYBOARDS/own-designs/Endeavour/images/photos-case/IMG_20211204_181907.jpg)
+![](/images/photos-case/IMG_20211204_181907.jpg)
 
 
