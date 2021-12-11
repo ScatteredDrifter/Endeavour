@@ -1,6 +1,6 @@
 ## ENDEAVOUR
 
-An orthogonal  10u keyboard heavily inspired by kb_elmo`s QEZ[https://github.com/kb_elmo/QEZ]
+An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.com/kb-elmo/QEZ)
 
 ---
 
