@@ -38,14 +38,7 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 - multiple options for bottom row:
 
-- [1] [1] [1][2][2][1][1][1]- no mt3 ortho support
-
-- [0][1][6][1][0] - no mt3 ortho support
-
-- [1] [1] [1] [1.5][1] [1.5 ] [1] [1] [1] - support for mt3 ortho\
-
-- [1] [1] [1.5] [2] [1.5] [1] [1] [1] - support for mt3 ortho
-
+![new bottom row](/images/rev2_bottom.png)
 - underglow with either WS28 or Skmini > easier to solder 
 
 - due to new bottom row -- overhaul of wiring and location of mcu 
