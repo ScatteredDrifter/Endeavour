@@ -4,9 +4,9 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 ---
 
-![](/images/photos-case/built1.jpg)
+![](/rev1/images/photos-case/built1.jpg)
 
-![](/images/photos-case/built2.jpg)
+![](/rev1/images/photos-case/built2.jpg)
 
 
 
@@ -38,7 +38,7 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 - multiple options for bottom row:
 
-![new bottom row](/images/rev2_bottom.png)
+![new bottom row](rev2/images/rev2_bottom.png)
 - underglow with either WS28 or Skmini > easier to solder 
 
 - due to new bottom row -- overhaul of wiring and location of mcu 
@@ -49,17 +49,17 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 ## <u>PCB Images:</u>
 
- ![pcb-front](/images/render-pcb/pcb-front.png)
+ ![pcb-front](/rev1/images/render-pcb/pcb-front.png)
 
-![pcbback](/images/render-pcb/pcb-back.png)
+![pcbback](/rev1/images/render-pcb/pcb-back.png)
 
 
 
 ## <u>CASE Images:</u>
 
-![](/images/photos-case/IMG_20211204_181926.jpg)
+![](/rev1/images/photos-case/IMG_20211204_181926.jpg)
 
-![](/images/photos-case/IMG_20211204_181907.jpg)
+![](/rev1/images/photos-case/IMG_20211204_181907.jpg)
 
 ---
 
