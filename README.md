@@ -1,4 +1,4 @@
-## ENDEAVOUR
+## ENDEAVOUR -REV 1 PCB
 
 An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.com/kb-elmo/QEZ)
 
@@ -10,7 +10,9 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 
 
+# Checkout the REV2 PCB:
 
+[link to rev2](/rev2/README.md)
 
 ### <u>Features:</u>
 
@@ -32,28 +34,11 @@ An orthogonal  10u keyboard heavily inspired by [kb_elmo`s QEZ](https://github.c
 
 - support for QMK+Vial/Via
 
-
-
-## <u>Planned Features:</u>
-
-- multiple options for bottom row:
-
-![new bottom row](rev2/images/rev2_bottom.png)
-- underglow with either WS28 or Skmini > easier to solder 
-
-- due to new bottom row -- overhaul of wiring and location of mcu 
-
-- rounded pcb corners 
-
-
-
 ## <u>PCB Images:</u>
 
  ![pcb-front](/rev1/images/render-pcb/pcb-front.png)
 
 ![pcbback](/rev1/images/render-pcb/pcb-back.png)
-
-
 
 ## <u>CASE Images:</u>
 
