@@ -26,7 +26,7 @@ An orthogonal 10u keyboard heavily inspired by [kb_elmo`s QEZ]([GitHub - kb-elmo
   
   - 3x 1u; 1x 1,5u; 1x 1u; 1x 1,5u; 3x 1u
   
-  - ![image of possible bottom rows](/images/rev2_bottom.png)
+  - ![image of possible bottom rows](/rev2/images/rev2_bottom.png)
 
 - support for QMK+Vial/Via
 
