@@ -1,4 +1,4 @@
-/* Copyright 2021 kb-elmo<mail@elmo.space>
+/* Derivate of elmo's firmware >> kb-elmo<mail@elmo.space>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

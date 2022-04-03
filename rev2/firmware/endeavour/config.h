@@ -1,5 +1,6 @@
 /*
-Copyright 2021 kb-elmo<mail@elmo.space>
+ * Derivate of kb_elmo's software > elmo.space 
+Copyright 2021 fabianstabusiness@protonmail.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
