@@ -2364,7 +2364,7 @@
   (symbol (lib_id "power:GND") (at 115.316 188.214 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a7df5c1-041d-4a6d-aeec-d6c2c9e7f5d4)
-    (property "Reference" "#PWR013" (at 108.966 188.214 0)
+    (property "Reference" "#PWR01" (at 108.966 188.214 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.9218 188.341 0)
@@ -2379,9 +2379,6 @@
     (pin "1" (uuid df80aa19-53b5-424c-ba31-6dbfb612eddd))
     (instances
       (project "Endeavour-2"
-        (path "/f7d59e16-0785-4eae-bd9c-f1ecda998224/2b82c6e8-7263-4917-9296-a47fb6c017df"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/f7d59e16-0785-4eae-bd9c-f1ecda998224"
           (reference "#PWR01") (unit 1)
         )
@@ -2894,7 +2891,7 @@
   (symbol (lib_id "power:GND") (at 231.648 76.962 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid acd7e887-f41e-4bc1-860b-e7fe63fe9020)
-    (property "Reference" "#PWR013" (at 225.298 76.962 0)
+    (property "Reference" "#PWR02" (at 225.298 76.962 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 227.2538 77.089 0)
@@ -2909,9 +2906,6 @@
     (pin "1" (uuid 1663436b-efd0-4aea-85ec-21538b9ae491))
     (instances
       (project "Endeavour-2"
-        (path "/f7d59e16-0785-4eae-bd9c-f1ecda998224/2b82c6e8-7263-4917-9296-a47fb6c017df"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/f7d59e16-0785-4eae-bd9c-f1ecda998224"
           (reference "#PWR02") (unit 1)
         )
