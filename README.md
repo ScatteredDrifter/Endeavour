@@ -11,9 +11,10 @@ by Evelyn~ Scattered Drifter
 
 ### Current Status: 
 
-- rev3 pcbs were ordered, have not tested them completely yet (firmware missing so far)
-- rev3 case was printed, however not completely satisfied with the look (I'm bad at designing keyboards)
-- made images of the pcb! See below
+- rev3 tested, minor issues fixed in 
+- firmware for QMK was updated to newest version, can be found [here](https://github.com/ScatteredDrifter/vial-qmk/tree/scatteredDriftersBoards/keyboards/scattereddrifter/endeavour)
+- ZMK firmware pending
+- rev3 case available - yet I dislike it in its current state.
 
 ---
 
@@ -21,14 +22,15 @@ by Evelyn~ Scattered Drifter
 The third iteration introduced a complete redesign of the pcb primarily to accommodate the **RP2040** and **BAV70 diodes**.
 
  I tried creating a circular positioning pattern for the components where their center is set with the mcu itself. Due to reposition of every component I rerouted the whole board again; also because Endeavour V¹ was one of my first designs and you can tell it was. A new silkscreen for both front and back of the pcb sets a different theme and clutters the whole board with ASCII-rubbish. This came into my mind because any actual drawing or pattern idea I had was blocked by my miserable ability to create art.
+
 A new **case** accompanies this revision. Its not entirely done neither am I satisfied with its look and design. My abilities with CAD are limited and I lack the endurance ( will to use Windows or learn an alternative software) and time to make a better one or to create an actual good / decent design. 
-Nevertheless my current process is shared in [this folder](/rev3/3dp_case/).
+
+Nevertheless my current process is shared in [this folder](/cases_rev3).
 I've **tested the case** with a previous rev pcb and could verify that its mostly working. 
 The new **case utilizes tadpole mount** of some sort hence I **ought to write a build guide**. 
 
 For the previous versions of the **PCB** and **Case** look at the folders below:
 
-1. [Rev1](/rev1/rev1.md)
 2. [Rev2](/rev2/rev2.md)
 
 ### Features |- Rev3:
@@ -36,7 +38,7 @@ For the previous versions of the **PCB** and **Case** look at the folders below:
 - RP2040 
 - 3 IO Pins exposed via breakout 
 - pinout for led-strip (WS28 and similarly supported)
-- QMK / VIAL support
+- QMK / VIAL support ( zmk should be possible too ) 
 - different layout options
 - new **case** with tadpole mount
 
